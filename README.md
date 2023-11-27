@@ -1,4 +1,4 @@
-
+Welcome to Legends of Azeroth Pandaria 5.4.8 Alpha Project
 **MoP 5.4.8 Build 18414 REPACK TORGHAST**
 [DOWNLOAD](https://mega.nz/file/X1lWCY7Q#j0Lj1kPVdGsLae0s3FVUMkFf20vqYqfqE_CjlQGghT0)
 
@@ -21,18 +21,6 @@ Detailed installation guides are available in the wiki for
 [Linux](http://wiki.projectskyfire.org/index.php?title=Installation_Linux) and
 [Mac OSX](http://wiki.projectskyfire.org/index.php?title=Installation_Mac_OS_X).
 
-
-
-## Copyright
-License: GPL 3.0
-
-Read file [COPYING](COPYING.md)
-
-## Authors &amp; Contributors
-Read file [THANKS](THANKS.md)
-
-## To-Do List
-Read File [TO-DO](TODO.md)
 
 ## Links
 
