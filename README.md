@@ -24,5 +24,4 @@ Detailed installation guides are available in the wiki for
 
 ## Links
 
-Database [https://github.com/k4s1pro/torghast-project-5.4.8/releases/tag/DBWORLDFULL](https://github.com/k4s1pro/torghast-project-5.4.8/releases/tag/DBWORLDFULL)
-
+Database [https://github.com/NeverlandWOW/torghast-project-5.4.8/releases/tag/DBWORLDFULL]
